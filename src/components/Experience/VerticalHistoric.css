@@ -1,0 +1,21 @@
+.experience {
+  margin-top: 0;
+  padding: 0px 0 100px 0;
+  background-image: url("../../assets/img/banner-bg.png");
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+h3,
+h4,
+p {
+  color: #212529;
+}
+.icons {
+  font-size: 25px !important;
+  margin-top: 0px !important
+}
+.icons-gap {
+    margin-right: 5px
+}
